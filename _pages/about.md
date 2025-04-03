@@ -12,6 +12,7 @@ Ben Yang is an assistant professor at the Institute of Artificial Intelligence a
 ---
 - Publications
 ---
+
 [17] Jinghan Wu, Ben Yang, Shangzong Yang, Xuetao Zhang, Badong Chen, Scalable Sparse Bipartite Graph Factorization for Multi-view Clustering, vol. 267, pp. 126192, 2025.
 
 [16] Ben Yang, Xuetao Zhang, Jinghan Wu, Feiping Nie, Fei Wang, and and Badong Chen, Scalable Min-Max Multi-view Spectral Clustering, IEEE Transactions on Knowledge and Data Engineering, 2025, doi: 10.1109/TKDE.2025.3543817.
